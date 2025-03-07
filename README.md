@@ -1,5 +1,5 @@
 # Publications
-## 2025-03-POC 
+## [2025-03-POC](https://github.com/goldoak-gmbh/Publications/blob/main/POCs/Proof-of-Concept.pdf) 
 ### Vulnerability Dashboard
 ![](https://github.com/goldoak-gmbh/Publications/blob/main/archive/2025-03-POC/Vulnerability-Dashboard.png?raw=true)
 
